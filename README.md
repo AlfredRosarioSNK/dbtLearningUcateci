@@ -1,9 +1,9 @@
 # Proyecto de Pipeline de Ingeniería de Datos
 
 ## Miembros del Equipo
-- Luis Caba
-- Alfred Rosario
-- Brayan Peñalo
+- Luis Caba 2021-0799
+- Alfred Rosario 2021-0798
+- Brayan Peñalo 2020-0962
 
 ## Descripción del Proyecto
 Este es un proyecto de Ingeniería de Datos que utiliza Apache Airflow, dbt, Snowflake y Astronomer para crear un pipeline de datos. El proyecto está construido usando Astro CLI y Docker para agilizar el despliegue.
